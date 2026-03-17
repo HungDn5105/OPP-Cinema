@@ -136,10 +136,10 @@ Chào mừng đóng góp! Vui lòng tạo issue hoặc pull request trên GitHub
 
 ## Giấy phép
 
-Dự án này sử dụng giấy phép MIT. Xem LICENSE file để biết thêm chi tiết.
+Xem LICENSE file để biết thêm chi tiết.
 
 ## Liên hệ
 
 - Tác giả: [Tên tác giả]
-- Email: [email@example.com]
+- Email: [daonhathung2005@gmail.com]
 - GitHub: https://github.com/HungDn5105/OPP-Cinema
